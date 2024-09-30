@@ -28,8 +28,8 @@ menu:
           weight: 6
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "I was a second-year Ph.D. student in the Department of Public Health Sciences at the University of Chicago. Due to family reasons, I concluded the Ph.D. training in Dec 2023 and relocated to Hong Kong. Currently, I am looking for a Ph.D. opportunity. My research interests involve Social and Environmental Determinants of Health and Health Intervention Research, with a focus on populations with Behavioral, Mental Health, and Social Vulnerabilities. I graduated"
+    author: CHEUNG, Tsz Him (Jason)
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
