@@ -2,7 +2,7 @@
 title: "The Food Environments of Fruit and Vegetable Consumption in East and Southeast Asia: A Systematic Review." 
 date: 2021-01-04
 lastmod: 2024-09-30
-# tags: ["philology","oleic science","history of oil","Mediterranean world"]
+ tags: ["philology","oleic science","history of oil","Mediterranean world"]
 author: ["Jason Tsz Him Cheung","Johnson Lok", "Stuart Gietel-Basten", "Keumseok Koh"]
 description: "This paper systematically reviewed the food environments—facilitators, barriers, and moderators—associated with FV consumption in East and Southeast Asia." 
 summary: "This paper systematically reviewed the food environments—facilitators, barriers, and moderators—associated with FV consumption in East and Southeast Asia." 
@@ -10,9 +10,10 @@ cover:
     # image: "paper1.png"
     # alt: "Some Uses For Olive Oil"
     relative: false
-editPost:
+<!-- editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Nutrients"
+    Text: "Nutrients" 
+    -->
 
 ---
 
@@ -21,8 +22,9 @@ editPost:
 ##### Download
 
 + [Paper](paper1.pdf)
-# + [Online appendix](appendix1.pdf)
-# + [Code and data](https://github.com/pmichaillat/feru)
+<!-- + [Online appendix](appendix1.pdf) 
+ + [Code and data](https://github.com/pmichaillat/feru)
+ -->
 
 ---
 
@@ -34,29 +36,30 @@ Fruit and vegetable (FV) consumption benefits the health of populations. This ca
 
 ##### Figure 6: Some Uses For Olive Oil
 
-# ![](paper1.png)
-
+<!-- ![](paper1.png)
+-->
 ---
 
 ##### Citation
 
 Cheung, JTH., Lok, J., Gietel-Basten, S., & Koh, K. (2021). The Food Environments of Fruit and Vegetable Consumption in East and Southeast Asia: A Systematic Review. Nutrients, 13(1), 148. PMID:33406719. [IF: 4.8]
 
-#```BibTeX
-#@article{UI13,
-#author = {Cheung, JTH., Lok, J., Gietel-Basten, S., & Koh, K.},
-#year = {2021},
-#title ={The Food Environments of Fruit and Vegetable Consumption in East and Southeast Asia: A Systematic Review.},
-#journal = {Nutrients},
-#volume = {13},
-#number = {1},
-#pages = {148},
-#url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7824134/}
-#```
-
+<!--
+```BibTeX
+@article{UI13,
+author = {Cheung, JTH., Lok, J., Gietel-Basten, S., & Koh, K.},
+year = {2021},
+title ={The Food Environments of Fruit and Vegetable Consumption in East and Southeast Asia: A Systematic Review.},
+journal = {Nutrients},
+volume = {13},
+number = {1},
+pages = {148},
+url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7824134/}
+```
+-->
 ---
 
 ##### Related material
 
-# + [Presentation slides](presentation1.pdf)
-# + [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
+<!-- + [Presentation slides](presentation1.pdf)
+ + [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/) -->
