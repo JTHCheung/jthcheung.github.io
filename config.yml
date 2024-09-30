@@ -9,10 +9,6 @@ enableRobotsTXT: true
 taxonomies:
     tag: tags
 
-.post-content p {
-    text-align: justify;
-}
-
 menu:
     main:
     #    - name: Books
