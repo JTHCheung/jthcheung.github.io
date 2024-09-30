@@ -12,8 +12,7 @@ cover:
     relative: false
 <!-- editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Nutrients" 
-    -->
+    Text: "Nutrients" -->
 
 ---
 
