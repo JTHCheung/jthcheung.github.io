@@ -1,5 +1,5 @@
 baseURL: "https://jthcheung.github.io" 
-title: Moritz-Maria von Igelfeld
+title: CHEUNG, Tsz Him (Jason)
 paginate: 20
 theme: PaperMod
 
@@ -23,13 +23,13 @@ menu:
         - name: Data
           url: data/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        # -name: Blog
+        # url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        # weight: 6
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "I graduated from HKUST."
+    author: CHEUNG, Tsz Him (Jason)
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -53,8 +53,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: CHEUNG, Tsz Him (Jason)
+          subtitle: "I graduated from HKUST."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -72,16 +72,16 @@ params:
               url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            #- name: Blog
+            #  url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: mailto:jasoncheung@uchicago.edu
+        #- name: Zoom
+        #  url: https://www.zoom.us/my/igelfeld
         - name: Location
           url: location/
         - name: Office Hours
@@ -89,7 +89,7 @@ params:
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/jthcheung
         - name: Substack
           url: https://pmichaillat.substack.com
         - name: YouTube
