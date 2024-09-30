@@ -28,9 +28,7 @@ menu:
    #       weight: 6
 
 params:
-    description: "<p align="justify">
-    I am a former second-year Ph.D. student in the Department of Public Health Sciences at the University of Chicago, where I focused on the social and environmental determinants of health and health interventions for populations facing behavioral, mental health, and social vulnerabilities. In 2023, I concluded my training and relocated to Hong Kong due to family commitments. I am now seeking a new Ph.D. opportunity in Hong Kong to continue my academic journey.<br><br>I hold an M.Phil. in Social Science from the Hong Kong University of Science and Technology and have research experience in epidemiology from my time as a research assistant at the University of Hong Kong.
-    </p>"
+    description: "<div align="justify"> I am a former second-year Ph.D. student in the Department of Public Health Sciences at the University of Chicago, where I focused on the social and environmental determinants of health and health interventions for populations facing behavioral, mental health, and social vulnerabilities. In 2023, I concluded my training and relocated to Hong Kong due to family commitments. I am now seeking a new Ph.D. opportunity in Hong Kong to continue my academic journey.<br><br>I hold an M.Phil. in Social Science from the Hong Kong University of Science and Technology and have research experience in epidemiology from my time as a research assistant at the University of Hong Kong. </div>"
     author: CHEUNG, Tsz Him (Jason)
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -56,9 +54,7 @@ params:
     profileMode:
           enabled: true
           title: CHEUNG, Tsz Him (Jason)
-          subtitle: "<p align="justify">
-    I am a former second-year Ph.D. student in the Department of Public Health Sciences at the University of Chicago, where I focused on the social and environmental determinants of health and health interventions for populations facing behavioral, mental health, and social vulnerabilities. In 2023, I concluded my training and relocated to Hong Kong due to family commitments. I am now seeking a new Ph.D. opportunity in Hong Kong to continue my academic journey.<br><br>I hold an M.Phil. in Social Science from the Hong Kong University of Science and Technology and have research experience in epidemiology from my time as a research assistant at the University of Hong Kong.
-    </p>"
+          subtitle: "I am a former second-year Ph.D. student in the Department of Public Health Sciences at the University of Chicago, where I focused on the social and environmental determinants of health and health interventions for populations facing behavioral, mental health, and social vulnerabilities. In 2023, I concluded my training and relocated to Hong Kong due to family commitments. I am now seeking a new Ph.D. opportunity in Hong Kong to continue my academic journey.<br><br>I hold an M.Phil. in Social Science from the Hong Kong University of Science and Technology and have research experience in epidemiology from my time as a research assistant at the University of Hong Kong."
           imageWidth: 160
           imageHeight: 160
           imageUrl: "/headshot.JPG"
