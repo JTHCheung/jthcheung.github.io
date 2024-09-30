@@ -32,17 +32,17 @@ Fruit and vegetable (FV) consumption benefits the health of populations. This ca
 
 ---
 
+<!--
 ##### Figure 6: Some Uses For Olive Oil
 
-<!-- ![](paper1.png)
--->
+![](paper1.png)
 ---
+
 
 ##### Citation
 
 Cheung, JTH., Lok, J., Gietel-Basten, S., & Koh, K. (2021). The Food Environments of Fruit and Vegetable Consumption in East and Southeast Asia: A Systematic Review. Nutrients, 13(1), 148. PMID:33406719. [IF: 4.8]
 
-<!--
 ```BibTeX
 @article{UI13,
 author = {Cheung, JTH., Lok, J., Gietel-Basten, S., & Koh, K.},
@@ -54,10 +54,10 @@ number = {1},
 pages = {148},
 url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7824134/}
 ```
--->
 ---
 
 ##### Related material
 
-<!-- + [Presentation slides](presentation1.pdf)
- + [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/) -->
+ + [Presentation slides](presentation1.pdf)
+ + [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/) 
+ -->
