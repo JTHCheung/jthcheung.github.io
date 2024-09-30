@@ -42,17 +42,17 @@ Fruit and vegetable (FV) consumption benefits the health of populations. This ca
 
 Cheung, JTH., Lok, J., Gietel-Basten, S., & Koh, K. (2021). The Food Environments of Fruit and Vegetable Consumption in East and Southeast Asia: A Systematic Review. Nutrients, 13(1), 148. PMID:33406719. [IF: 4.8]
 
-```BibTeX
-@article{UI13,
-author = {Cheung, JTH., Lok, J., Gietel-Basten, S., & Koh, K.},
-year = {2021},
-title ={The Food Environments of Fruit and Vegetable Consumption in East and Southeast Asia: A Systematic Review.},
-journal = {Nutrients},
-volume = {13},
-number = {1},
-pages = {148},
-url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7824134/}
-```
+#```BibTeX
+#@article{UI13,
+#author = {Cheung, JTH., Lok, J., Gietel-Basten, S., & Koh, K.},
+#year = {2021},
+#title ={The Food Environments of Fruit and Vegetable Consumption in East and Southeast Asia: A Systematic Review.},
+#journal = {Nutrients},
+#volume = {13},
+#number = {1},
+#pages = {148},
+#url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7824134/}
+#```
 
 ---
 
