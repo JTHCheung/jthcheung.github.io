@@ -2,7 +2,7 @@
 title: "The Food Environments of Fruit and Vegetable Consumption in East and Southeast Asia: A Systematic Review." 
 date: 2021-01-04
 lastmod: 2024-09-30
-<!-- tags: ["philology","oleic science","history of oil","Mediterranean world"] -->
+# tags: ["philology","oleic science","history of oil","Mediterranean world"]
 author: ["Jason Tsz Him Cheung","Johnson Lok", "Stuart Gietel-Basten", "Keumseok Koh"]
 description: "This paper systematically reviewed the food environments—facilitators, barriers, and moderators—associated with FV consumption in East and Southeast Asia." 
 summary: "This paper systematically reviewed the food environments—facilitators, barriers, and moderators—associated with FV consumption in East and Southeast Asia." 
@@ -10,9 +10,9 @@ cover:
     # image: "paper1.png"
     # alt: "Some Uses For Olive Oil"
     relative: false
-<!-- editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Nutrients" -->
+#editPost:
+#    URL: "https://github.com/pmichaillat/hugo-website"
+ #   Text: "Nutrients" -->
 
 ---
 
@@ -22,8 +22,7 @@ cover:
 
 + [Paper](paper1.pdf)
 <!-- + [Online appendix](appendix1.pdf) 
- + [Code and data](https://github.com/pmichaillat/feru)
- -->
+ + [Code and data](https://github.com/pmichaillat/feru) -->
 
 ---
 
