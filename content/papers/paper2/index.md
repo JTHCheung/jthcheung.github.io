@@ -38,10 +38,9 @@ Conclusion: Fast-food restaurants were substantially clustered around secondary 
 
 ---
 
-<!--
 ##### Figure: Hot spot analysis of fast-food restaurants near secondary schools in Hong Kong, by A, region, B, population density, and C, income.
 
-[](paper2.jpg)
+![](paper2.jpg) Hot spot analysis of fast-food restaurants near secondary schools in Hong Kong, by A, region, B, population density, and C, income.
 
 ---
 
