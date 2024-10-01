@@ -47,18 +47,18 @@ Conclusion: Fast-food restaurants were substantially clustered around secondary 
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
+Cheung, JTH., Tang, KC., & Koh, K. (2021). Geographic Clustering of Fast-Food Restaurants Around Secondary Schools in Hong Kong. Preventing Chronic Disease, 18, E56. PMID:34081576. [IF: 4.4]
 
 ```BibTeX
 @article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
+author = {Cheung, JTH., Tang, KC., & Koh, K. },
+year = {2021},
+title ={Geographic Clustering of Fast-Food Restaurants Around Secondary Schools in Hong Kong.},
+journal = {Preventing Chronic Disease},
+volume = {18},
+# number = {2},
+pages = {E56},
+url = {https://www.cdc.gov/pcd/issues/2021/20_0601.htm}}
 ```
 
 ---
