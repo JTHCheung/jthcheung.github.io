@@ -4,8 +4,8 @@ date: 2021-06-03
 lastmod: 2024-10-1
 # tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
 author: ["Jason Tsz Him Cheung", "Ka Chung Tang", "Keumseok Koh"]
-description: "We examined the prevalence of fast-food restaurants and identified the clusters of fast-food restaurants near secondary schools in Hong Kong." 
-summary: "We examined the prevalence of fast-food restaurants and identified the clusters of fast-food restaurants near secondary schools in Hong Kong." 
+description: "This paper examined the prevalence of fast-food restaurants and identified the clusters of fast-food restaurants near secondary schools in Hong Kong." 
+summary: "This paper examined the prevalence of fast-food restaurants and identified the clusters of fast-food restaurants near secondary schools in Hong Kong." 
 cover:
     image: "paper2.jpg"
 #    alt: "Dimensions of a sausage dog"
@@ -38,12 +38,13 @@ Conclusion: Fast-food restaurants were substantially clustered around secondary 
 
 ---
 
-<!--
 ##### Figure: Hot spot analysis of fast-food restaurants near secondary schools in Hong Kong, by A, region, B, population density, and C, income.
 
 ![](paper2.jpg)
 
 ---
+
+<!--
 
 ##### Citation
 
