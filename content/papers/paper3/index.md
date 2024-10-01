@@ -1,7 +1,7 @@
 ---
 title: "Geospatial analysis of population-based incidence of multiple myeloma in the United States" 
 date: 2023-04-01
-lastmod: 2024-10-1
+lastmod: 2024-10-2
 # tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
 author: ["Jason Tsz Him Cheung", "Wei Zhang", "Brian C.-H. Chiu"]
 description: "This paper investigated the spatial patterns of multiple myeloma (MM) incidence in the United States (US) between 2013 and 2017 to improve understanding of potential environmental risk factors for MM." 
