@@ -39,9 +39,9 @@ Conclusion: Fast-food restaurants were substantially clustered around secondary 
 ---
 
 <!--
-##### Figure 2: Dimensions of a sausage dog
+##### Figure: Hot spot analysis of fast-food restaurants near secondary schools in Hong Kong, by A, region, B, population density, and C, income.
 
-![](paper2.png)
+![](paper2.jpg)
 
 ---
 
