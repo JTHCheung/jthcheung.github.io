@@ -14,9 +14,9 @@ menu:
     #    - name: Books
     #      url: books/
     #      weight: 5 
-        - name: Papers
+        - name: Publications
           url: papers/
-          weight: 2
+          weight: 10
         - name: Courses
           url: courses/
           weight: 3
