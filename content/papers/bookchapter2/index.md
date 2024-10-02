@@ -3,7 +3,7 @@ title: "Does Socioeconomic Status Matter? A Study on the Spatial Patterns of COV
 date: 2021-04-22
 lastmod: 2024-10-2
 # tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Zilin Li", "Rachel Ganly", "Christian Joy Pattawi Cruz", "Jason Tsz Him Cheung", "Stuart Gietel-Basten"]
+author: ["Keumseok Koh", "Sangdon Park", "Yuen Yu Chan", and "Tsz Him Cheung"]
 description: "This book chapter investigated if there is any association between the COVID-19 infection and socioeconomic status by using area-level information." 
 summary: "This book chapter investigated if there is any association between the COVID-19 infection and socioeconomic status by using area-level information."
 cover:
