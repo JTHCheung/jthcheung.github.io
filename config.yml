@@ -17,7 +17,7 @@ menu:
         - name: Publications
           url: papers/
           weight: 1
-        - name: Courses
+        - name: Coursework
           url: courses/
           weight: 2
    #     - name: Data
