@@ -11,15 +11,15 @@ taxonomies:
 
 menu:
     main:
-    #    - name: Books
-    #      url: books/
-    #      weight: 5 
+        - name: Background
+          url: background/
+          weight: 1 
         - name: Publications
           url: papers/
-          weight: 1
+          weight: 2
         - name: Coursework
           url: courses/
-          weight: 2
+          weight: 3
    #     - name: Data
    #       url: data/
    #       weight: 4 
@@ -28,7 +28,7 @@ menu:
    #       weight: 6
 
 params:
-    description: "I'm passionate about researching the social and environmental determinants of health, focusing on health interventions for populations with behavioral, mental health, and social vulnerabilities. My goal is to translate research findings into real-world impact.<br><br>I earned my B.A. at the University of Hong Kong, where I developed a passion for epidemiology during my senior year. Following this, I received statistical and econometric training and completed an M.Phil. in Social Science at the Hong Kong University of Science and Technology. I then pursued a Ph.D. in Public Health Sciences at the University of Chicago. In 2023, I concluded my training and relocated to Hong Kong due to family commitments. I am now seeking a new Ph.D. opportunity in Hong Kong to continue my academic journey."
+    description: "I'm passionate about researching the social and environmental determinants of health, focusing on health interventions for populations with behavioral, mental health, and social vulnerabilities. My goal is to translate research findings into real-world impact.<br><br>I earned my B.A. at the University of Hong Kong, where I developed a passion for epidemiology during my senior year. Following this, I received statistical and econometric training and completed an M.Phil. in Social Science at the Hong Kong University of Science and Technology. I then pursued a Ph.D. in Public Health Sciences at the University of Chicago. In my second year, I concluded my training and relocated to Hong Kong due to family commitments. I am now seeking a new Ph.D. opportunity in Hong Kong to continue my academic journey!"
     author: CHEUNG, Tsz Him (Jason)
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -54,12 +54,14 @@ params:
     profileMode:
           enabled: true
           title: CHEUNG, Tsz Him (Jason)
-          subtitle: "I'm passionate about researching the social and environmental determinants of health, focusing on health interventions for populations with behavioral, mental health, and social vulnerabilities. My goal is to translate research findings into real-world impact.<br><br>I earned my B.A. at the University of Hong Kong, where I developed a passion for epidemiology during my senior year. Following this, I received statistical and econometric training and completed an M.Phil. in Social Science at the Hong Kong University of Science and Technology. I then pursued a Ph.D. in Public Health Sciences at the University of Chicago. In 2023, I concluded my training and relocated to Hong Kong due to family commitments. I am now seeking a new Ph.D. opportunity in Hong Kong to continue my academic journey."
+          subtitle: "I'm passionate about researching the social and environmental determinants of health, focusing on health interventions for populations with behavioral, mental health, and social vulnerabilities. My goal is to translate research findings into real-world impact.<br><br>I earned my B.A. at the University of Hong Kong, where I developed a passion for epidemiology during my senior year. Following this, I received statistical and econometric training and completed an M.Phil. in Social Science at the Hong Kong University of Science and Technology. I then pursued a Ph.D. in Public Health Sciences at the University of Chicago. In my second year, I concluded my training and relocated to Hong Kong due to family commitments. I am now seeking a new Ph.D. opportunity in Hong Kong to continue my academic journey!"
           imageWidth: 160
           imageHeight: 160
           imageUrl: "/headshot.JPG"
           imageTitle: CHEUNG, Tsz Him (Jason)
           buttons:
+            - name: Background
+              url: background/
             - name: Publications
               url: papers/
             - name: Coursework
