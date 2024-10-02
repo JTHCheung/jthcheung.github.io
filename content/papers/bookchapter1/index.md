@@ -1,6 +1,6 @@
 ---
 title: "Population Policies in East Asia and Oceania." 
-date: 2023-04-01
+date: 2022-07-02
 lastmod: 2024-10-2
 # tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
 author: ["Zilin Li", "Rachel Ganly", "Christian Joy Pattawi Cruz", "Jason Tsz Him Cheung", "Stuart Gietel-Basten"]
