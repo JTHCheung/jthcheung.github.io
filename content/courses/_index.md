@@ -5,33 +5,35 @@ description: ""
 
 ## EPIDEMIOLOGY & HEALTH POLICY RESEARCH
 
-* **PBHS30910: Epidemiology and Population Health** <br>
-    Instructor: [Dr. Diane Lauderdale]
-
-<br>
-
-* **CS 448: Introduction to Relational Database Management Systems** <br>
-    Session: Spring'21 <br>
-    Instructor: [Dr. Chris Clifton](https://www.cs.purdue.edu/homes/clifton/)
-
+* **PBHS30910: Epidemiology and Population Health (UChicago)** <br>
+    Instructor: Dr. Diane Lauderdale
+* **PBHS31001 Epidemiologic Methods (UChicago)** <br>
+    Instructor: Dr. Dezheng Huo
+* **PBHS32100 Introduction to U.S. Health Policy and Politics (UChicago)** <br>
+    Instructor: Dr. Loren Saulsberry  
+* **GEOG2143 Planning in an Era of Changes (HKU)** <br>
+    Instructor: Dr. Phyllis Chi Miu Li    
+* **GEOG2018 Transport Geography (HKU)** <br>
+    Instructor: Dr. Andre Muller
 
 ---
-## Texas A&M University
+## STATISTICS & ECONOMETRICS
 
-* **CSCE 445: Computers and New Media** <br>
-    Session: Fall'19 <br>
-    Instructor: [Dr. Richard Furuta](https://engineering.tamu.edu/cse/profiles/rfuruta.html)
-
-<br>
-
-* **CSCE 121: Introduction to Programming Design and Concepts** <br>
-    Session: Summer'19 <br>
-    Instructor: [Dr. J. Michael Moore](https://engineering.tamu.edu/cse/profiles/moore-j-michael.html)
-
-<br>
-
-* **CSCE 221: Data Structure and Algorithms** <br>
-    Sessions: Spring'19 & Fall'18 <br>
-    Instructor: [Dr. Teresa Leyk](https://engineering.tamu.edu/cse/profiles/tleyk.html)  &  [Dr. Aakash Tyagi](https://engineering.tamu.edu/cse/profiles/tyagi-aakash.html)   
-
-<br>
+* **PBHS32100 Introduction to Biostatistics (UChicago) ** <br>
+    Instructor: Dr. John Cursio
+* **PBHS32410 Regression Analysis for Health and Social Research (UChicago)** <br>
+    Instructor: Dr. James Dignam
+* **PBHS32700 Biostatistical Methods (UChicago)** <br>
+    Instructor: Dr. Lin Chen
+* **PBHS33400 Multilevel Modeling (UChicago)** <br>
+    Instructor: Dr. Donald Hedeker
+* **PBHS35100 Health Services Research Methods (UChicago)** <br>
+    Instructor: Dr. Prachi Sanghavi
+* **BSDG30900 BSD Quantitative Biology Bootcamp (UChicago)** <br>
+* **SOSC5090 Quantitative Methods for Social Science Research (HKUST)** <br>
+    Instructor: Dr. Han Li
+* **SOSC5110 Social Science Research Design and Methods (HKUST)** <br>
+    Instructor: Dr. Jin Wang
+* **SOSC5340 Econometric Approaches to Social Science Research (HKUST)** <br>
+    Instructor: Dr. Han Zhang
+    
