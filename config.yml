@@ -14,12 +14,12 @@ menu:
     #    - name: Books
     #      url: books/
     #      weight: 5 
-        - name: Papers
+        - name: Publications
           url: papers/
-          weight: 2
+          weight: 10
         - name: Courses
           url: courses/
-          weight: 3
+          weight: 10
    #     - name: Data
    #       url: data/
    #       weight: 4 
@@ -60,7 +60,7 @@ params:
           imageUrl: "/headshot.JPG"
           imageTitle: CHEUNG, Tsz Him (Jason)
           buttons:
-            - name: Papers
+            - name: Publications
               url: papers/
             - name: Coursework
               url: courses/
