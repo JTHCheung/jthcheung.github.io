@@ -19,7 +19,7 @@ description: ""
 ---
 ## STATISTICS & ECONOMETRICS
 
-* **PBHS32100 Introduction to Biostatistics (UChicago) ** <br>
+* **PBHS32100 Introduction to Biostatistics (UChicago)** <br>
     Instructor: Dr. John Cursio
 * **PBHS32410 Regression Analysis for Health and Social Research (UChicago)** <br>
     Instructor: Dr. James Dignam
@@ -37,3 +37,23 @@ description: ""
 * **SOSC5340 Econometric Approaches to Social Science Research (HKUST)** <br>
     Instructor: Dr. Han Zhang
     
+---
+## COMPUTATIONAL ANALYSIS
+
+* **PBHS34500 Machine Learning for Public Health (UChicago)** <br>
+    Instructor: Dr. Eric Polley
+* **GISC30519 Spatial Cluster Analysis (UChicago)** <br>
+    Instructor: Dr. Pedro Amaral
+* **SOSC5500 Computational Social Science (HKUST)** <br>
+    Instructor: Dr. Han Zhang
+* **GEOG3417 GIS Applications to Public Health (HKU)** <br>
+    Instructor: Dr. Peter Keumseok Koh
+* **GEOG2090 Introduction to Geographic Information Systems (HKU)** <br>
+    Instructor: Dr. Poh Chin Lai
+* **COURSERA System Science and Obesity (Johns Hopkins)** <br>
+
+---
+## TEACHING & ETHICS
+
+* **BSDG55100 Responsible, Rigorous, and Reproducible Conduct of Research: R3CR (UChicago)** <br>
+* **PDEV6800I Introduction to Teaching and Learning in Higher Education (HKUST)** <br>
