@@ -60,8 +60,8 @@ params:
           subtitle: "I have strong research interest in investigating social and environmental determinants of health, focusing on health interventions for populations with behavioral, mental health, and social vulnerabilities. My goal is to translate research findings into real-world impact.<br><br>I earned my B.A. at the University of Hong Kong, where I developed a passion for epidemiology during my senior year. Following this, I received statistical and econometric training and completed an M.Phil. in Social Science at the Hong Kong University of Science and Technology. I then pursued a Ph.D. in Public Health Sciences at the University of Chicago. In my second year, I concluded my training and relocated to Hong Kong due to family commitments. I am now seeking a new Ph.D. opportunity in Hong Kong to continue my academic journey!"
           #imageWidth: 160
           #imageHeight: 160
-          imageWidth: 320
-          imageHeight: 320
+          imageWidth: 230
+          imageHeight: 230
           imageUrl: "headshot.jpg"
           imageTitle: CHEUNG, Tsz Him (Jason)
           buttons:
