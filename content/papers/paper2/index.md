@@ -1,18 +1,18 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
-lastmod: 2024-07-12
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
+title: "Geographic Clustering of Fast-Food Restaurants Around Secondary Schools in Hong Kong" 
+date: 2021-06-03
+lastmod: 2024-10-1
+# tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
+author: ["Jason Tsz Him Cheung", "Ka Chung Tang", "Keumseok Koh"]
+description: "This paper examined the prevalence of fast-food restaurants and identified the clusters of fast-food restaurants near secondary schools in Hong Kong." 
+summary: "This paper examined the prevalence of fast-food restaurants and identified the clusters of fast-food restaurants near secondary schools in Hong Kong." 
 cover:
-    image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
+    image: "paper2.jpg"
+#    alt: "Dimensions of a sausage dog"
     relative: false
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+#editPost:
+#    URL: "https://github.com/pmichaillat/hugo-website"
+    Text: "Preventing Chronic Disease"
 
 ---
 
@@ -21,37 +21,45 @@ editPost:
 ##### Download
 
 + [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk)
+<!-- + [Online appendix](appendix2.pdf)
++ [Code and data](https://github.com/pmichaillat/wunk) -->
 
 ---
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Introduction: Clustering of fast-food restaurants around schools facilitates fast-food consumption among students, which may cause obesity. We examined the prevalence of fast-food restaurants and identified the clusters of fast-food restaurants near secondary schools in Hong Kong.
+
+Methods: We collected data of Western fast-food chain restaurants and 490 secondary schools in Hong Kong. Descriptive statistics and buffer analysis identified the prevalence of fast-food restaurants around the secondary schools within 400-m and 800-m buffers. Additional analyses compared schools stratified by the 3 main regions in Hong Kong, district-level population density, and median monthly household income. We used Getis-Ord GI* hot spot analysis to measure spatial clusters of fast-food restaurants around schools and Global Moran's I to measure the spatial autocorrelation based on each school and the number of fast-food restaurants within the 400-m buffer.
+
+Results: The average number of fast-food restaurants within 400 m and 800 m of a school was 2.0 and 6.3, respectively. Seven in 10 secondary schools had at least 1 fast-food restaurant within 400 m. The number of schools with no fast-food restaurants was higher in Hong Kong Island, considered the "rich region" in Hong Kong. Hot spots of clusters were significantly located in the high-density downtown areas. We observed significant spatial autocorrelation between fast-food restaurants and secondary schools in the areas with high density, low income, and high income (P < .001, z > 2.58).
+
+Conclusion: Fast-food restaurants were substantially clustered around secondary schools in Hong Kong. Territory-wide studies about the health effect of fast-food clusters around schools on children and adolescents are warranted in Hong Kong.
 
 ---
 
-##### Figure 2: Dimensions of a sausage dog
+##### Figure: Hot spot analysis of fast-food restaurants near secondary schools in Hong Kong, by A, region, B, population density, and C, income.
 
-![](paper2.png)
+![](paper2.jpg)
 
 ---
+
+<!--
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
+Cheung, JTH., Tang, KC., & Koh, K. (2021). Geographic Clustering of Fast-Food Restaurants Around Secondary Schools in Hong Kong. Preventing Chronic Disease, 18, E56. PMID:34081576. [IF: 4.4]
 
 ```BibTeX
 @article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
+author = {Cheung, JTH., Tang, KC., & Koh, K. },
+year = {2021},
+title ={Geographic Clustering of Fast-Food Restaurants Around Secondary Schools in Hong Kong.},
+journal = {Preventing Chronic Disease},
+volume = {18},
+# number = {2},
+pages = {E56},
+url = {https://www.cdc.gov/pcd/issues/2021/20_0601.htm}}
 ```
 
 ---
@@ -60,3 +68,5 @@ url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs
 
 + [Presentation slides](presentation2.pdf)
 + [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)
+
+-->
