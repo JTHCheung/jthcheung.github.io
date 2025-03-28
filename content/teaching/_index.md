@@ -7,7 +7,7 @@ description: ""
 
 * **PBHS31001 Epidemiologic Methods (Dec 2023)** <br>
 * **PBHS30910 Epidemiology and Population Health (Fall 2023)** <br>
-    - Student feedback is available in the bottom section of the [UChicago Fall 2023 course evaluation](https://drive.google.com/file/d/1IKdNo9KT28I44xwLyyFPvg9r3sIFpdL4/view).
+    - Received [Dean’s Outstanding Teaching Assistant Prize] (https://uchicago.box.com/s/t81xa9c94vu29vdx89i3x79fatvvq2w8).
 
 ## Hong Kong University of Science and Technology
 
