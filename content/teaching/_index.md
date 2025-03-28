@@ -7,7 +7,7 @@ description: ""
 
 * **PBHS31001 Epidemiologic Methods (Dec 2023)** <br>
 * **PBHS30910 Epidemiology and Population Health (Fall 2023)** <br>
-    - Received [Dean’s Outstanding Teaching Assistant Prize] (https://uchicago.box.com/s/t81xa9c94vu29vdx89i3x79fatvvq2w8).
+    - Received [Dean’s Outstanding Teaching Assistant Prize](https://uchicago.box.com/s/t81xa9c94vu29vdx89i3x79fatvvq2w8).
 
 ## Hong Kong University of Science and Technology
 
