@@ -57,7 +57,7 @@ params:
     profileMode:
           enabled: true
           title: CHEUNG, Tsz Him (Jason)
-          subtitle: "I am currently a third-year Ph.D. student at the University of Chicago. have a strong research interest in investigating environmental determinants of health, focusing on climated-related exposures and health equity. <br><br>I earned my B.A. at the University of Hong Kong, where I developed a passion for epidemiology during my senior year. Following this, I received statistical and econometric training and completed an M.Phil. in Social Science at the Hong Kong University of Science and Technology."
+          subtitle: "I am currently a third-year Ph.D. student at the University of Chicago. I have a strong research interest in investigating environmental determinants of health, focusing on climated-related exposures and health equity. <br><br>I earned my B.A. at the University of Hong Kong, where I developed a passion for epidemiology during my senior year. Following this, I received statistical and econometric training and completed an M.Phil. in Social Science at the Hong Kong University of Science and Technology."
           #imageWidth: 160
           #imageHeight: 160
           imageWidth: 200
