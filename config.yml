@@ -62,7 +62,7 @@ params:
           #imageHeight: 160
           imageWidth: 200
           imageHeight: 200
-          imageUrl: "headshot.jpg"
+          imageUrl: "headshot2.jpg"
           imageTitle: CHEUNG, Tsz Him (Jason)
           buttons:
             - name: Background
